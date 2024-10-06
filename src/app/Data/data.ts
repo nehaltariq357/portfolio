@@ -240,7 +240,7 @@ export const blogs = [
 ];
 
 export const contactData = {
-  phone: "+88(012345 789)",
-  email: "example@gmail.com",
-  address: "Dhaka , Bangladesh",
+  phone: "0306-2512790",
+  email: "nehaltariq78@gmail.com",
+  address: "karachi,Pakistan",
 };
