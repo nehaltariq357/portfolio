@@ -20,44 +20,25 @@ export const aboutInfo = {
 export const projectData = [
   {
     id: 1,
-    image: "/images/p1.png",
-    url: "https://agency-opal-eight.vercel.app/",
+    image: "/images/blog.png",
+    url: "https://blog-assignment-beta.vercel.app/",
   },
   {
     id: 2,
-    image: "/images/p2.png",
-    url: "https://burger-pearl.vercel.app/",
+    image: "/images/resume.png",
+    url: "https://editable-resume-taupe-five.vercel.app/",
   },
   {
     id: 3,
-    image: "/images/p3.png",
-    url: "https://game-ecommerce-yt.vercel.app/",
+    image: "/images/coffee.png",
+    url: "https://coffee-web-tailwindcss.vercel.app/",
   },
   {
     id: 4,
-    image: "/images/p4.png",
-    url: "https://elearning-yt.vercel.app/",
+    image: "/images/veg.png",
+    url: "https://food-mart-website.vercel.app/",
   },
-  {
-    id: 5,
-    image: "/images/p5.png",
-    url: "https://invest-peach.vercel.app/",
-  },
-  {
-    id: 6,
-    image: "/images/p6.png",
-    url: "https://job-chi-ruby.vercel.app/",
-  },
-  {
-    id: 7,
-    image: "/images/p7.png",
-    url: "https://wdw-ecom.vercel.app/",
-  },
-  {
-    id: 8,
-    image: "/images/p8.png",
-    url: "https://webhost-ten.vercel.app/",
-  },
+  
 ];
 
 export const skillsData = [
