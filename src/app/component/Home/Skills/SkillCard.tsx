@@ -15,7 +15,7 @@ interface SkillCardProps {
 const SkillCard= ({ skill }:SkillCardProps) => {
   const { image, percent, title } = skill
   return (
-    <div className='p-10 hover:bg-blue-900 duration-300 transition-all cursor-pointer text-center rounded-lg bg-gray-900'>
+    <div className='p-10 hover:bg-blue-900 h-52 duration-300 transition-all cursor-pointer text-center rounded-lg bg-gray-900'>
       <Image
         src={image}
         alt={title}
