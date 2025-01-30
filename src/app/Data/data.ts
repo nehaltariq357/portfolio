@@ -2,7 +2,7 @@ export const BaseInfo = {
   name: "Nehal",
   position: "Full Stack Web Developer",
   description:
-    "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit porro numquam ad, vero consequuntur aperiam cumque voluptatum pariatur veniam? Qui facilis est ipsam odio cum!",
+    "Passionate about building scalable and user-friendly web applications. Experienced in front-end and back-end development, I specialize in modern frameworks and technologies to create seamless digital experiences. Always eager to learn and innovate!",
   profilePic: "/images/hero.png",
 };
 
@@ -10,7 +10,7 @@ export const aboutInfo = {
   title: "Learning Web Development with Curiosity and Dedication",
   description:
     "I'm a budding web developer excited to create and learn! Currently building my skills in web design and development to bring creative ideas to life. Each project helps me grow and learn more about this field.",
-  client: "5+",
+  client: "20+",
   experience: "1",
   project: "20+",
   website: "20+",
@@ -21,7 +21,7 @@ export const projectData = [
   {
     id: 1,
     image: "/images/blog.png",
-    url: "https://blog-assignment-beta.vercel.app/",
+    url: "https://milestone-3-blog-next14.vercel.app/",
   },
   {
     id: 2,
@@ -38,6 +38,16 @@ export const projectData = [
     image: "/images/veg.png",
     url: "https://food-mart-website.vercel.app/",
   },
+  {
+    id: 5,
+    image: "/images/e-commerce.png",
+    url: "https://hackthon-03.vercel.app/",
+  },
+  {
+    id: 6,
+    image: "/images/quiz.jpg",
+    url: "https://quiz-app-8f2f6.web.app/",
+  }
   
 ];
 
