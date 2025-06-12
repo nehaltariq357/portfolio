@@ -23,7 +23,7 @@ const About = () => {
             <div className='mt-8'>
                 {[
                     { color: "bg-blue-800", text: "Frontend Development" },
-                    { color: "bg-orange-800", text: "Backend Development" },
+                    { color: "bg-orange-800", text: "Exploring Backend Technologies " },
                     { color: "bg-green-800", text: "Building Full Stack Skills" },
                 ].map((item, index) => (
                     <motion.div 
@@ -50,10 +50,10 @@ const About = () => {
           transition={{ duration: 1, ease: "easeOut" }}
         >
           {[
-            { src: "/images/customer.png", value: aboutInfo.client, label: "Projects for Friends & Family" },
-            { src: "/images/experience.png", value: `${aboutInfo.experience} Year`, label: "Learning Experience" },
-            { src: "/images/completed.png", value: aboutInfo.project, label: "Small Projects Completed" },
-            { src: "/images/rocket.png", value: aboutInfo.website, label: "Websites Published" }
+            { src: "/images/customer.png", value: "", label: "Worked with Friends & Classmates" },
+            {src: "/images/experience.png", value: "", label: "Hands-On Learning Experience" },
+            { src: "/images/completed.png", value: "", label: "Built Practical Web Projects" },
+            { src: "/images/rocket.png", value: "", label: "Published Websites Online" }
           ].map((item, index) => (
             <motion.div 
               key={index} 

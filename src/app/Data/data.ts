@@ -1,19 +1,19 @@
 export const BaseInfo = {
   name: "Nehal",
-  position: "Full Stack Web Developer",
+  position: "Front-End Web Developer",
   description:
-    "Passionate about building scalable and user-friendly web applications. Experienced in front-end and back-end development, I specialize in modern frameworks and technologies to create seamless digital experiences. Always eager to learn and innovate!",
+    "Passionate and detail-oriented Front-End Web Developer with hands-on experience in building responsive and user-friendly web applications using React.js, Next.js, and Tailwind CSS. Proficient in JavaScript, TypeScript, and Python, with a strong foundation in version control (Git) and UI libraries like Shadcn and Material UI.\n\nDemonstrated practical skills through real-world projects including e-commerce platforms, Streamlit apps, and Python-based tools. Committed to continuous learning, clean code, and collaborative development in team environments.\n\n",
   profilePic: "/images/hero.png",
 };
 
 export const aboutInfo = {
   title: "Learning Web Development with Curiosity and Dedication",
   description:
-    "I'm a budding web developer excited to create and learn! Currently building my skills in web design and development to bring creative ideas to life. Each project helps me grow and learn more about this field.",
-  client: "20+",
-  experience: "1",
-  project: "20+",
-  website: "20+",
+    "I'm a budding web developer with a strong passion for creating and learning. I’m currently sharpening my skills in web design and development, aiming to bring creative ideas to life through code. Every project I build is a stepping stone in my journey, helping me grow in both front-end and back-end development.",
+  // client: "20+",
+  // experience: "1",
+  // project: "20+",
+  // website: "20+",
 };
 
 
@@ -87,6 +87,12 @@ export const skillsData = [
     title: "Tailwind CSS",
     image: "/images/tailwind.svg",
     percent: "67%",
+  },
+  {
+    id: 7,
+    title: "Python",
+    image: "/images/python-logo.png",
+    percent: "95%",
   },
 ];
 
