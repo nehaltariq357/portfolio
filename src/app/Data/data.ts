@@ -10,10 +10,6 @@ export const aboutInfo = {
   title: "Learning Web Development with Curiosity and Dedication",
   description:
     "I'm a budding web developer with a strong passion for creating and learning. I’m currently sharpening my skills in web design and development, aiming to bring creative ideas to life through code. Every project I build is a stepping stone in my journey, helping me grow in both front-end and back-end development.",
-  // client: "20+",
-  // experience: "1",
-  // project: "20+",
-  // website: "20+",
 };
 
 

@@ -1,7 +1,6 @@
 "use client"
 import { BaseInfo } from '@/app/Data/data'
 import React from 'react'
-import { FaDownload } from 'react-icons/fa'
 import Image from 'next/image'
 import { motion } from 'framer-motion'
 
@@ -21,14 +20,6 @@ const Hero = () => {
                   {BaseInfo.position}
                 </h1>
                 <p className='mt-6 text-sm md:text-base text-white text-opacity-60'>{BaseInfo.description}</p>
-                <motion.button 
-                  // className='md:px-8 md:py-2.5 px-6 py-1.5 text-white font-semibold text-sm md:text-lg transition-all duration-200 rounded-lg mt-8 bg-blue-700 hover:bg-blue-900 flex items-center space-x-2'
-                  // whileHover={{ scale: 1.1 }}
-                  // whileTap={{ scale: 0.9 }}
-                >
-                    {/* <span>Download</span> */}
-                    {/* <FaDownload/> */}
-                </motion.button>
             </motion.div>
             
             {/* image content */}
